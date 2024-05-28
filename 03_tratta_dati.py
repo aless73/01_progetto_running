@@ -5,6 +5,8 @@ import glob
 import os
 import pandas as pd
 
+print('Change made from branch parallel3 28_05 at 10.45')
+
 folder_risultati='01_file_risultati/'
 percorso='D:/alessandro2/04_altri_hobby/03_manuale python/01_progetto_running/'
 infile='f_01_gare_url.pickle'
