@@ -16,6 +16,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import WebDriverException
 import shutil
 
+print('change made the 28_05 at 9.26')
+
 folder_scarico='C:/Users/unieuro/Downloads/'
 folder_risultati='01_file_risultati/'
 percorso='D:/alessandro2/04_altri_hobby/03_manuale python/01_progetto_running/'
