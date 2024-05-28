@@ -17,6 +17,7 @@ from selenium.common.exceptions import WebDriverException
 import shutil
 
 print('change made the 28_05 at 9.26')
+print('change n.2 made the 28_05 at 9.37')
 
 folder_scarico='C:/Users/unieuro/Downloads/'
 folder_risultati='01_file_risultati/'
